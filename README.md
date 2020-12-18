@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Computer Science Student at AGH university. My interest include software development, film editing, chess and football. I’m looking for my first job as intern or working student in IT. 
-Currently I mainly learning about Web Development 💻.
+Currently I am mainly learning about Web Development 💻.
 
 ### Technologies I use
 <div>
