@@ -1,8 +1,3 @@
-## Hi there 👋
-
-I'm Computer Science Student at AGH university. My interest include software development, film editing, chess and football.
-Currently I am mainly learning about Web Development 💻.
-
 ### Technologies I use
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="5%"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="5%">
